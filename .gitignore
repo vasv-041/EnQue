@@ -1,0 +1,23 @@
+# Environment and local databases
+.env
+*.db
+enque_dev.db
+*.sqlite3
+
+# Python cache & venv
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+
+# Node & Frontend Build
+node_modules/
+frontend/node_modules/
+frontend/dist/
+.vercel/
+
+# Logs & temp
+*.log
+

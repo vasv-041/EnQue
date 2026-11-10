@@ -1,0 +1,49 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "api/index.py",
+      "use": "@vercel/python",
+      "config": {
+        "maxLambdaSize": "50mb"
+      }
+    },
+    {
+      "src": "frontend/package.json",
+      "use": "@vercel/static-build",
+      "config": {
+        "distDir": "dist"
+      }
+    }
+  ],
+  "routes": [
+    {
+      "src": "/api/(.*)",
+      "dest": "api/index.py"
+    },
+    {
+      "src": "/health",
+      "dest": "api/index.py"
+    },
+    {
+      "src": "/docs",
+      "dest": "api/index.py"
+    },
+    {
+      "src": "/openapi.json",
+      "dest": "api/index.py"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/frontend/$1"
+    }
+  ],
+  "env": {
+    "DATABASE_URL": "sqlite:////tmp/enque.db",
+    "JWT_SECRET_KEY": "enque_dev_jwt_secret_key_hackwithbangalore_2026",
+    "GROQ_BASE_URL": "https://api.groq.com/openai/v1",
+    "PRIMARY_LLM_MODEL": "openai/gpt-oss-120b",
+    "FALLBACK_LLM_MODEL": "qwen/qwen3.8-27b",
+    "HINDSIGHT_BASE_URL": "https://api.hindsight.ai/v1"
+  }
+}

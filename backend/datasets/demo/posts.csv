@@ -1,0 +1,26 @@
+post_id,platform,post_date,caption,content_type,topic,reach,impressions,likes,comments,shares,saves,clicks,campaign_id
+P_01,instagram,2025-01-10,Kickstart your morning glow with our 3-step cleanser! ✨ Drop a 💕 if you love a minimalist routine.,carousel,morning routine,4500,6200,310,42,18,95,25,CMP_101
+P_02,instagram,2025-01-12,Hydration check! 💧 Is hyaluronic acid your best friend during dry winter mornings?,single_image,hydration,3800,4900,240,31,10,45,15,CMP_101
+P_03,instagram,2025-01-14,Glow from within: our daily antioxidant moisturizer in action.,reel,product spotlight,8900,14200,780,85,92,340,80,CMP_101
+P_04,instagram,2025-01-17,Minimalist makeup starts with healthy skin. How do you prep your base?,carousel,routine prep,4100,5200,260,28,14,88,20,CMP_101
+P_05,instagram,2025-01-19,Self-care Sunday vibes with our soothing oat mask. 🧖‍♀️,single_image,self care,3200,4100,190,15,8,30,10,CMP_101
+P_06,tiktok,2025-01-22,POV: Applying your SPF every 2 hours like a skincare pro ☀️,reel,sun protection,12500,21000,1450,160,210,820,140,CMP_101
+P_07,instagram,2025-01-25,Customer spotlight: Sarah's glowing skin journey after 30 days! 🌟,carousel,social proof,5200,6800,380,50,35,140,60,CMP_101
+P_08,instagram,2025-01-28,Night routine essentials: Lock in moisture while you sleep 🌙,carousel,night routine,4600,5900,320,39,22,110,30,CMP_101
+P_09,instagram,2025-01-31,Quick poll: Oil cleanser or micellar water? Tell us in the comments! 👇,single_image,skincare tips,3500,4400,210,85,12,40,15,CMP_101
+P_10,tiktok,2025-02-03,3 common skincare mistakes you might still be making 🚫,reel,educational,15400,26000,1890,220,340,1450,190,CMP_101
+P_11,instagram,2025-02-11,"Is your skin barrier compromised? 🚨 4 warning signs you shouldn't ignore: redness, tightness, stinging.",carousel,barrier repair,7800,11200,850,115,145,920,95,CMP_102
+P_12,instagram,2025-02-14,Why Ceramides + Centella are non-negotiable for irritated skin. Save this guide! 📌,carousel,ingredient guide,8400,12500,920,140,190,1200,120,CMP_102
+P_13,tiktok,2025-02-17,Stop exfoliating every single night! Here is how to rebuild your damaged barrier in 14 days.,reel,barrier repair,22000,38000,2800,340,620,2400,310,CMP_102
+P_14,instagram,2025-02-21,Gentle vs harsh cleansers: The pH balance test you need to see. 🧪,reel,formulation science,14500,23000,1600,195,280,1550,180,CMP_102
+P_15,instagram,2025-02-24,Fragrance-free vs Natural Scents: What does sensitive skin really need?,carousel,ingredient safety,6900,9400,640,110,85,590,75,CMP_102
+P_16,instagram,2025-02-27,Ingredient deep-dive: Panthenol (Pro-Vitamin B5) and why your skin drinks it up.,carousel,ingredient guide,7200,10100,710,95,110,810,85,CMP_102
+P_17,tiktok,2025-03-02,How to use Retinol without ruining your barrier (The Sandwich Method explained) 🥪,reel,actives tutorial,28000,49000,3900,480,950,3800,420,CMP_102
+P_18,instagram,2025-03-06,Mythbusters: Does slugging with petrolatum clog your pores? 🧴,carousel,skincare myths,9100,13400,980,175,180,1140,110,CMP_102
+P_19,instagram,2025-03-09,Skin barrier rescue routine for when you accidentally over-did the AHA/BHA peel.,carousel,barrier repair,8900,12800,940,130,210,1350,130,CMP_102
+P_20,instagram,2025-03-13,Why we formulated without drying alcohols and artificial dyes. 🌿,single_image,clean formulation,5100,6900,410,65,40,230,45,CMP_102
+P_21,instagram,2025-03-19,Is 10% Niacinamide too much? Why 2-5% is actually the clinical sweet spot. 🔬,carousel,ingredient safety,11200,16800,1420,240,380,2100,210,CMP_103
+P_22,tiktok,2025-03-23,Skin purging vs allergic breakout: How to tell the difference before panicking! 🚨,reel,educational,31000,56000,4500,620,1200,4900,580,CMP_103
+P_23,instagram,2025-03-26,Zinc PCA + Niacinamide: The duo that regulates sebum without stripping moisture.,carousel,acne care,8800,12900,990,145,175,1290,140,CMP_103
+P_24,instagram,2025-03-29,Full ingredient transparency: What every single % in our Barrier Elixir does.,carousel,transparency,10400,15100,1250,190,260,1820,195,CMP_103
+P_25,tiktok,2025-04-02,Stop combining these 3 actives in the same routine! Save this warning ⚠️,reel,routine tips,24500,43000,3100,390,780,3200,360,CMP_103
